@@ -6,7 +6,7 @@ Projeto desenvolvido com **HTML e CSS** simulando uma página de links estilo bi
 
 ## 🌐 Acesse o projeto online
 
-👉 https://edivandroreis4-netizen.github.io/LinkBio-Do-Neymar-Jr/
+👉https://link-bio-do-neymar-jr.vercel.app/
 
 ---
 
