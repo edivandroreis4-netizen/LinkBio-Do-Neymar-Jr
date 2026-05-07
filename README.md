@@ -7,12 +7,12 @@ Projeto desenvolvido com **HTML e CSS** simulando uma página de links estilo bi
 ## 🌐 Acesse o projeto online
 
 👉https://link-bio-do-neymar-jr.vercel.app/
-
+https://edivandroreis4-netizen.github.io/LinkBio-Do-Neymar-Jr/
 ---
 
 ## 📸 Preview do projeto
 
-<img width="1875" height="1066" alt="Captura de tela 2026-05-05 232133" src="https://github.com/user-attachments/assets/64d64f1a-5474-4ee6-8966-3e555d3341fa" />
+<img width="1875" height="1066" alt="link-bio-do-neymar-jr" src="https://github.com/user-attachments/assets/64d64f1a-5474-4ee6-8966-3e555d3341fa" />
 
 
 ---
